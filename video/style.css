@@ -1,0 +1,43 @@
+body{
+  background-color:#f7f4eb
+}
+
+.page-name{
+  background-color:#e6ffa1;
+  color:black;
+  font-size:34px;
+  a{
+    text-decoration:none;
+  }
+}
+
+.header-link-video{
+  a{
+    font-size:27px;
+    color:black;
+    text-decoration:underline;
+    position:absolute;
+    top:15px;
+    left:170px;
+  }
+}
+
+.header-image{
+  padding:18px;
+}
+
+.video_info{
+  font-size:27px;
+  padding:10px;
+  height:100px;
+}
+
+.video01{
+  a{
+    position:absolute;
+    top:1200px;
+    left:22px;
+    font-size:42px;
+    text-decoration:none
+  }
+}
